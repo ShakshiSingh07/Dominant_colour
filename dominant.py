@@ -1,5 +1,5 @@
 import streamlit as st
-pip install scikit-learn
+import sklearn as sk
 
 from sklearn.cluster import KMeans
 import numpy as np
